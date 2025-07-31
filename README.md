@@ -1,0 +1,2 @@
+# https-drive.google.com-file-d-1CozhhLm8FeOCTD8HGuRNTf1qGjJsNExM-view-usp-sharing
+This project leverages Bayesian change point detection to link Brent oil price structural breaks with major global events. It provides actionable insights for investors, policymakers, and analysts through statistical modeling and an interactive dashboard, enabling better decision-making in an unstable energy market.
